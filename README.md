@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @MuditArya007
-- 👀 I’m interested in ...app development
+- 👀 I’m interested in ...Web development
 - 🌱 I’m currently learning ...java
 - 💞️ I’m looking to collaborate with you
-- 📫 How to reach me ...instagram   mudit_lohan
+- 📫 How to reach me ...instagram   mudit_._lohan
 
 <!---
 MuditArya007/MuditArya007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
